@@ -1,3 +1,18 @@
+<<<<<<< HEAD
 .vs/
 bin/
 obj/
+=======
+# Visual Studio cache
+.vs/
+*.user
+*.suo
+
+# Build output
+bin/
+obj/
+
+# Others
+*.log
+*.tmp
+>>>>>>> 39a8344 (Clean up .vs, bin, obj and update lab03)
