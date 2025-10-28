@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\d1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15C6DC16-D237-4D70-B08A-946F672557C9}|d1\\d1.csproj|c:\\users\\pc\\source\\repos\\d1\\d1\\models\\datamodels\\hoa_don.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C6DC16-D237-4D70-B08A-946F672557C9}|d1\\d1.csproj|solutionrelative:d1\\models\\datamodels\\hoa_don.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C6DC16-D237-4D70-B08A-946F672557C9}|d1\\d1.csproj|c:\\users\\pc\\source\\repos\\d1\\d1\\models\\datamodels\\quan_tri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C6DC16-D237-4D70-B08A-946F672557C9}|d1\\d1.csproj|solutionrelative:d1\\models\\datamodels\\quan_tri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C6DC16-D237-4D70-B08A-946F672557C9}|d1\\d1.csproj|c:\\users\\pc\\source\\repos\\d1\\d1\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C6DC16-D237-4D70-B08A-946F672557C9}|d1\\d1.csproj|solutionrelative:d1\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C6DC16-D237-4D70-B08A-946F672557C9}|d1\\d1.csproj|c:\\users\\pc\\source\\repos\\d1\\d1\\views\\test\\goodbye.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15C6DC16-D237-4D70-B08A-946F672557C9}|d1\\d1.csproj|solutionrelative:d1\\views\\test\\goodbye.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C6DC16-D237-4D70-B08A-946F672557C9}|d1\\d1.csproj|c:\\users\\pc\\source\\repos\\d1\\d1\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C6DC16-D237-4D70-B08A-946F672557C9}|d1\\d1.csproj|solutionrelative:d1\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C6DC16-D237-4D70-B08A-946F672557C9}|d1\\d1.csproj|c:\\users\\pc\\source\\repos\\d1\\d1\\views\\test\\hi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15C6DC16-D237-4D70-B08A-946F672557C9}|d1\\d1.csproj|solutionrelative:d1\\views\\test\\hi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C6DC16-D237-4D70-B08A-946F672557C9}|d1\\d1.csproj|c:\\users\\pc\\source\\repos\\d1\\d1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15C6DC16-D237-4D70-B08A-946F672557C9}|d1\\d1.csproj|solutionrelative:d1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C6DC16-D237-4D70-B08A-946F672557C9}|d1\\d1.csproj|c:\\users\\pc\\source\\repos\\d1\\d1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C6DC16-D237-4D70-B08A-946F672557C9}|d1\\d1.csproj|solutionrelative:d1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C6DC16-D237-4D70-B08A-946F672557C9}|d1\\d1.csproj|c:\\users\\pc\\source\\repos\\d1\\d1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15C6DC16-D237-4D70-B08A-946F672557C9}|d1\\d1.csproj|solutionrelative:d1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C6DC16-D237-4D70-B08A-946F672557C9}|d1\\d1.csproj|c:\\users\\pc\\source\\repos\\d1\\d1\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15C6DC16-D237-4D70-B08A-946F672557C9}|d1\\d1.csproj|solutionrelative:d1\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C6DC16-D237-4D70-B08A-946F672557C9}|d1\\d1.csproj|c:\\users\\pc\\source\\repos\\d1\\d1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15C6DC16-D237-4D70-B08A-946F672557C9}|d1\\d1.csproj|solutionrelative:d1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Hoa_Don.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\d1\\d1\\Models\\DataModels\\Hoa_Don.cs",
+              "RelativeDocumentMoniker": "d1\\Models\\DataModels\\Hoa_Don.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\d1\\d1\\Models\\DataModels\\Hoa_Don.cs",
+              "RelativeToolTip": "d1\\Models\\DataModels\\Hoa_Don.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T14:32:41.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Quan_tri.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\d1\\d1\\Models\\DataModels\\Quan_tri.cs",
+              "RelativeDocumentMoniker": "d1\\Models\\DataModels\\Quan_tri.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\d1\\d1\\Models\\DataModels\\Quan_tri.cs",
+              "RelativeToolTip": "d1\\Models\\DataModels\\Quan_tri.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T14:23:40.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\d1\\d1\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "d1\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\d1\\d1\\Models\\Employee.cs",
+              "RelativeToolTip": "d1\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T13:44:35.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "goodbye.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\d1\\d1\\Views\\test\\goodbye.cshtml",
+              "RelativeDocumentMoniker": "d1\\Views\\test\\goodbye.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\d1\\d1\\Views\\test\\goodbye.cshtml",
+              "RelativeToolTip": "d1\\Views\\test\\goodbye.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-23T13:16:08.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "hi.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\d1\\d1\\Views\\test\\hi.cshtml",
+              "RelativeDocumentMoniker": "d1\\Views\\test\\hi.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\d1\\d1\\Views\\test\\hi.cshtml",
+              "RelativeToolTip": "d1\\Views\\test\\hi.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-23T13:11:33.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "testController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\d1\\d1\\Controllers\\testController.cs",
+              "RelativeDocumentMoniker": "d1\\Controllers\\testController.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\d1\\d1\\Controllers\\testController.cs",
+              "RelativeToolTip": "d1\\Controllers\\testController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T13:01:52.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\d1\\d1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "d1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\d1\\d1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "d1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T13:04:54.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\d1\\d1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "d1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\d1\\d1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "d1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-23T13:07:50.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\d1\\d1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "d1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\d1\\d1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "d1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-23T13:07:48.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\d1\\d1\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "d1\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\d1\\d1\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "d1\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-23T13:07:53.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\d1\\d1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "d1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\d1\\d1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "d1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAIBJwBoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-23T13:03:34.001Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

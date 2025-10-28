@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\CanHoHCN\CanHoHCN\bin\Debug\CanHoHCN.exe.config
+C:\Users\PC\source\repos\CanHoHCN\CanHoHCN\bin\Debug\CanHoHCN.exe
+C:\Users\PC\source\repos\CanHoHCN\CanHoHCN\bin\Debug\CanHoHCN.pdb
+C:\Users\PC\source\repos\CanHoHCN\CanHoHCN\obj\Debug\CanHoHCN.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\CanHoHCN\CanHoHCN\obj\Debug\CanHoHCN.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CanHoHCN\CanHoHCN\obj\Debug\CanHoHCN.exe
+C:\Users\PC\source\repos\CanHoHCN\CanHoHCN\obj\Debug\CanHoHCN.pdb

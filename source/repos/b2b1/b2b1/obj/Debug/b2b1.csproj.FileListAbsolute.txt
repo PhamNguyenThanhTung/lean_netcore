@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\b2b1\b2b1\bin\Debug\b2b1.exe.config
+C:\Users\PC\source\repos\b2b1\b2b1\bin\Debug\b2b1.exe
+C:\Users\PC\source\repos\b2b1\b2b1\bin\Debug\b2b1.pdb
+C:\Users\PC\source\repos\b2b1\b2b1\obj\Debug\b2b1.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\b2b1\b2b1\obj\Debug\b2b1.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\b2b1\b2b1\obj\Debug\b2b1.exe
+C:\Users\PC\source\repos\b2b1\b2b1\obj\Debug\b2b1.pdb
