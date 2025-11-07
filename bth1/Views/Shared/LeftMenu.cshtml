@@ -1,0 +1,61 @@
+﻿@* File này là Views/Shared/Components/Render/RenderLeftMenu.cshtml *@
+@model IEnumerable<MenuItem>
+
+<div class="sidebar" data-background-color="dark">
+    <div class="sidebar-logo">
+        <div class="logo-header" data-background-color="dark">
+            <a asp-controller="Home" asp-action="Index" class="logo">
+                <img src="~/assets/img/kaiadmin/logo_light.svg"
+                     alt="navbar brand"
+                     class="navbar-brand"
+                     height="20" />
+            </a>
+            <div class="nav-toggle">
+                <button class="btn btn-toggle toggle-sidebar">
+                    <i class="gg-menu-right"></i>
+                </button>
+                <button class="btn btn-toggle sidenav-toggler">
+                    <i class="gg-menu-left"></i>
+                </button>
+            </div>
+            <button class="topbar-toggler more">
+                <i class="gg-more-vertical-alt"></i>
+            </button>
+        </div>
+    </div>
+    <div class="sidebar-wrapper scrollbar scrollbar-inner">
+        <div class="sidebar-content">
+            <ul class="nav nav-secondary">
+
+                @foreach (var item in Model)
+                {
+                    // Tách Link thành Controller và Action
+                    var parts = item.Link.Split('/');
+                    var controller = parts[0];
+                    var action = parts[1];
+
+                    // Kiểm tra xem mục menu này có đang active không
+                    string isActive = "";
+                    if (ViewContext.RouteData.Values["controller"].ToString() == controller)
+                    {
+                        isActive = "active";
+                    }
+
+                    <li class="nav-item @isActive">
+                        <a asp-controller="@controller" asp-action="@action">
+                            <i class="fas fa-layer-group"></i> <p>@item.Name</p>
+                        </a>
+                    </li>
+                }
+
+                @* Logic cho menu Students của bạn (với route đặc biệt) *@
+                <li class="nav-item @(ViewContext.RouteData.Values["controller"].ToString() == "Student" ? "active" : "")">
+                    <a asp-route="StudentList">
+                        <i class="fas fa-users"></i>
+                        <p>Students (Custom)</p>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>

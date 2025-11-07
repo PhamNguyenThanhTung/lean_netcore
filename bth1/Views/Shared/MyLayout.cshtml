@@ -1,0 +1,84 @@
+﻿@* SỬA LỖI BUILD: Thêm 2 dòng này lên đầu file *@
+@removeTagHelper Microsoft.AspNetCore.Mvc.Razor.TagHelpers.HeadTagHelper, Microsoft.AspNetCore.Mvc.Razor
+@removeTagHelper Microsoft.AspNetCore.Mvc.Razor.TagHelpers.BodyTagHelper, Microsoft.AspNetCore.Mvc.Razor
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>@ViewData["Title"] - Management System</title>
+    <meta content="width=device-width, initial-scale=1.0, shrink-to-fit=no"
+          name="viewport" />
+    <link rel="icon"
+          href="~/assets/img/kaiadmin/favicon.ico"
+          type="image/x-icon" />
+
+    <!-- Fonts and icons -->
+    <script src="~/assets/js/plugin/webfont/webfont.min.js"></script>
+    <script>
+        WebFont.load({
+            google: { families: ["Public Sans:300,400,500,600,700"] },
+            custom: {
+                families: [
+                    "Font Awesome 5 Solid",
+                    "Font Awesome 5 Regular",
+                    "Font Awesome 5 Brands",
+                    "simple-line-icons",
+                ],
+             
+                urls: ["@Url.Content("~/assets/css/fonts.min.css")"],
+            },
+            active: function () {
+                sessionStorage.fonts = true;
+            },
+        });
+    </script>
+
+    <!-- CSS Files (SỬA ĐƯỜNG DẪN VỀ 'assets') -->
+    <link rel="stylesheet" href="~/assets/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/assets/css/plugins.min.css" />
+    <link rel="stylesheet" href="~/assets/css/kaiadmin.min.css" />
+</head>
+<body>
+    <div class="wrapper">
+
+        @await Component.InvokeAsync("Render")
+
+        <div class="main-panel">
+
+            <!-- 2. GỌI TOPNAV -->
+            <partial name="TopNav" />
+
+            <!--
+                PHẦN MAIN ĐỂ RENDER BODY
+            -->
+            <div class="container">
+                <div class="page-inner">
+                    <!-- 3. NỘI DUNG TRANG CON SẼ VÀO ĐÂY -->
+                    @RenderBody()
+                </div>
+            </div>
+
+            <!-- 4. GỌI FOOTER -->
+            <partial name="Footer" />
+
+        </div>
+
+        <div class="custom-template">
+            <!-- ... (code của custom-template) ... -->
+        </div>
+    </div>
+
+    <!--   Core JS Files (SỬA ĐƯỜNG DẪN VỀ 'assets')  -->
+    <script src="~/assets/js/core/jquery-3.7.1.min.js"></script>
+    <script src="~/assets/js/core/popper.min.js"></script>
+    <script src="~/assets/js/core/bootstrap.min.js"></script>
+    <script src="~/assets/js/plugin/jquery-scrollbar/jquery.scrollbar.min.js"></script>
+    <script src="~/assets/js/kaiadmin.min.js"></script>
+
+    @RenderSection("Scripts", required: false)
+
+   
+
+</body>
+</html>
