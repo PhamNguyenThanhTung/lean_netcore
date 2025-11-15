@@ -37,8 +37,14 @@ namespace bth1.Controllers
         }
 
         [HttpGet("Add", Name = "CreateStudentForm")]
-        public IActionResult Create()
+        public IActionResult Create(Student s)
         {
+            if (ModelState.IsValid)
+            {
+                s.Id = ListStudents.Last().Id + 1;
+                ListStudents.Add(s);
+                return View("Index", ListStudents);
+            }
             ViewBag.AllGenders = Enum.GetValues(typeof(Gender)).Cast<Gender>().ToList();
 
             ViewBag.AllBranches = new List<SelectListItem>()
